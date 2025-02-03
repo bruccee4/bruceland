@@ -461,12 +461,12 @@ body {
         position: absolute;
         top: 120px;
         left: 10%;
-        width: 45%;
+        width: 40%;
         font-family: 'Gilroy-Heavy';
         font-weight: 900;
-        font-size: 74px;
+        font-size: 400%;
         color: #FFFFFF;
-        line-height: 94px;
+        line-height: 100%;
         letter-spacing: 1.2px;
     }
     
@@ -572,7 +572,7 @@ body {
     width: 24%;
     font-family: 'Gilroy-Heavy';
     font-weight: 700;
-    font-size: 48px;
+    font-size: 42px;
     color: #FFFFFF;
     line-height: 52px;
     letter-spacing: 1px;
@@ -620,11 +620,11 @@ body {
 .car-block-main{
     position: absolute;
     top: 70px;
-    left: 67%;
+    left: 64%;
     width: 24%;
     font-family: 'Gilroy-Heavy';
     font-weight: 700;
-    font-size: 48px;
+    font-size: 42px;
     color: #FFFFFF;
     line-height: 52px;
     letter-spacing: 1px;
@@ -633,7 +633,7 @@ body {
 .car-block-second{
     position: absolute;
     top: 190px;
-    left: 67%;
+    left: 64%;
     width: 27%;
     font-family: 'Roboto';
     font-weight: 400;
@@ -646,7 +646,7 @@ body {
 .get-car-bonus{
     position: absolute;
     top: 270px;
-    left: 67%;
+    left: 64%;
     width: 24%;
     height: 60px;
     background-color: #E71F37;
@@ -972,14 +972,14 @@ body {
     left: 10%;
     top: 750px;
     width: 80%;
-    height: 300px;
+    height: 280px;
 }
 
 .car-block-main{
     position: absolute;
     top: 570px;
-    left: 10%;
-    width: 85%;
+    left: 5%;
+    width: 90%;
     font-family: 'Gilroy-Heavy';
     font-weight: 800;
     font-size: 34px;
@@ -991,7 +991,7 @@ body {
 
 .car-block-second{
     position: absolute;
-    top: 630px;
+    top: 640px;
     left: 10%;
     width: 80%;
     font-family: 'Roboto';
