@@ -89,6 +89,10 @@ body {
     letter-spacing: 1px;
 }
 
+.main-second b{
+    font-weight: 900;
+}
+
 .play-btn{
     position: absolute;
     left: 100px;      
